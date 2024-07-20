@@ -15,4 +15,4 @@
             user_name: jasineri
             # Text on contribution graph 
             text: UJJWAL
-       - uses: jasineri/simple-push-action@v4
+       - uses: jasineri/simple-push-action@v1
