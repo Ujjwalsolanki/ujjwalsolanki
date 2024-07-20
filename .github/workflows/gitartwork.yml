@@ -8,7 +8,12 @@
      name: Make gitartwork SVG
      runs-on: ubuntu-latest
      steps:
+<<<<<<< HEAD
        - uses: actions/checkout@v3
+=======
+       - uses: actions/setup-node@v4
+       - uses: actions/checkout@v4
+>>>>>>> d37fc15db82b21c17d39d1bef4c71bc0235a5dcb
        - uses: jasineri/gitartwork@v1
          with:
             # Use this username's contribution graph  

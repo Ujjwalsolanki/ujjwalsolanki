@@ -3,7 +3,7 @@
 
 <h3><i>Spare some time to take a look at my <a href="https://www.datascienceportfol.io/ujjwalsolanki">portfolio</a>!</i></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakalya100&label=Profile%20views&color=0e75b6&style=flat" alt="Ujjwal Solanki" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalsolanki&label=Profile%20views&color=0e75b6&style=flat" alt="Ujjwal Solanki" /> </p>
 
 <a href="https://www.linkedin.com/in/ujjwalsolanki1/"><img src="https://github.com/Sakalya100/mlh-init/blob/master/animation_500_kxa883sd.gif" align="right" height="300"></a>
 
@@ -36,15 +36,15 @@ My motto of being determined towards the software world and its development for 
 This is a list of my most recent activity on GitHub.
 
 <!-- RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Sakalya100/JS-Tutorial](https://github.com/Sakalya100/js-tutorial-codes)
-2. 🎉 Merged PR [#4](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io/pull/4) in [anirudhbelwadi/anirudhbelwadi.github.io](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io)
-3. 💪 Opened PR [#4](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io/pull/4) in [anirudhbelwadi/anirudhbelwadi.github.io](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io)
-4. ⭐ Starred [snehil03july/mathpy](https://github.com/snehil03july/mathpy)
-5. 💪 Opened PR [#1085](https://github.com/Midway91/HactoberFest2023/pull/1085) in [Midway91/HactoberFest2023](https://github.com/Midway91/HactoberFest2023)
+<!-- 1. 📔 Created new repository [Sakalya100/JS-Tutorial](https://github.com/Sakalya100/js-tutorial-codes) -->
+<!-- 2. 🎉 Merged PR [#4](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io/pull/4) in [anirudhbelwadi/anirudhbelwadi.github.io](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io) -->
+<!-- 3. 💪 Opened PR [#4](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io/pull/4) in [anirudhbelwadi/anirudhbelwadi.github.io](https://github.com/anirudhbelwadi/anirudhbelwadi.github.io) -->
+<!-- 4. ⭐ Starred [snehil03july/mathpy](https://github.com/snehil03july/mathpy) -->
+<!-- 5. 💪 Opened PR [#1085](https://github.com/Midway91/HactoberFest2023/pull/1085) in [Midway91/HactoberFest2023](https://github.com/Midway91/HactoberFest2023) -->
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 4th, 2023, 1:47:21 AM
+<!-- Last Updated: Monday, December 4th, 2023, 1:47:21 AM -->
 <!--RECENT_ACTIVITY:last_update_end -->
 
 
