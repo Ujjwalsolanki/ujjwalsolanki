@@ -3,7 +3,7 @@
 
 <h3><i>Spare some time to take a look at my <a href="https://www.datascienceportfol.io/ujjwalsolanki">portfolio</a>!</i></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakalya100&label=Profile%20views&color=0e75b6&style=flat" alt="Ujjwal Solanki" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalsolanki&label=Profile%20views&color=0e75b6&style=flat" alt="Ujjwal Solanki" /> </p>
 
 <a href="https://www.linkedin.com/in/ujjwalsolanki1/"><img src="https://github.com/Sakalya100/mlh-init/blob/master/animation_500_kxa883sd.gif" align="right" height="300"></a>
 
