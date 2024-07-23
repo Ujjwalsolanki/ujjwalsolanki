@@ -89,9 +89,9 @@ This is a list of my most recent activity on GitHub.
 # Skills
 
 - Machine Learning (Classification and Regression)
-- Speedcuber (Can solve 10+ rubik's cube)
-- Photography
-- Operation Systems: Windows, Linux
+<!-- - Speedcuber (Can solve 10+ rubik's cube) -->
+<!-- - Photography -->
+<!-- - Operation Systems: Windows, Linux -->
 - Softwares
 
 # Quick Links
