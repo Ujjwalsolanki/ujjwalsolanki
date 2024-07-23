@@ -15,4 +15,4 @@ jobs:
         with:
            user_name: jasineri
            text: JASINERI
-      - uses: jasineri/simple-push-action@v2
+      - uses: jasineri/simple-push-action@v1
