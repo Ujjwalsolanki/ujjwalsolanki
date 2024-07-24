@@ -1,5 +1,5 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
-<!-- ![gitartwork](gitartwork.svg) -->
+![gitartwork](gitartwork.svg)
 
 <h3><i>Spare some time to take a look at my <a href="https://www.datascienceportfol.io/ujjwalsolanki">portfolio</a>!</i></h3>
 
