@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalsolanki&label=Profile%20views&color=0e75b6&style=flat" alt="Ujjwal Solanki" /> </p>
 
-<a href="https://www.linkedin.com/in/ujjwalsolanki1/" target="_blank"><img src="https://github.com/Sakalya100/mlh-init/blob/master/animation_500_kxa883sd.gif" align="right" height="300"></a>
+<a href="https://www.linkedin.com/in/ujjwalsolanki1/" ><img src="https://github.com/Sakalya100/mlh-init/blob/master/animation_500_kxa883sd.gif" align="right" height="300"></a>
 
 # About myself
 
@@ -17,7 +17,7 @@ My motto of being determined towards the software world and its development for 
 
 <br/>
 <p align="left">
-  <a href="https://ujjwalsolanki.me/" target="_blank">
+  <a href="https://ujjwalsolanki.me/" >
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ujjwalsolanki&show_icons=true&theme=gruvbox&hide_border=true&&include_all_commits=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalsolanki&theme=gruvbox&hide_border=true" />
   </a>
@@ -88,15 +88,15 @@ This is a list of my most recent activity on GitHub.
 
 # Quick Links
 
-<a href="https://www.linkedin.com/in/ujjwalsolanki1/" target="_blank"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://drive.google.com/file/d/10DPESpYpBxA99i_6m3SbfceVD_hevDT5/view" target="_blank"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/resume.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ujjwalsolanki1/" ><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://drive.google.com/file/d/10DPESpYpBxA99i_6m3SbfceVD_hevDT5/view" ><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/resume.png"></a>&nbsp;&nbsp;
 <a href="mailto:ujjwal9432267473@gmail.com"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/email.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/firebrandjay/" target="_blank"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/ujjwalsolanki" target="_blank"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/firebrandjay/" ><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/insta.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/ujjwalsolanki" ><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/twitter.png"></a>&nbsp;&nbsp;
 
 # Support Me
 
 If you like the value I provide and want to support, maybe consider buying me a book so that I can work more on my skills and produce more value added content 🙌
 <br><br>
-<a href="https://www.buymeacoffee.com/ujjwalsolanki" target="_blank"><img height="40" src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=anirudhbelwadi&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff"></a>
+<a href="https://www.buymeacoffee.com/ujjwalsolanki" ><img height="40" src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=anirudhbelwadi&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff"></a>
 
