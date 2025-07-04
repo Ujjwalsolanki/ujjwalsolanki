@@ -9,7 +9,10 @@
 
 # About myself
 
-A passionate individual who loves playing with data, demitsifying data secrets and modelling ML applications to predict whats data.I am a developer and table tennis player, an engineer by profession and a rounder trip wanderer by interest.
+<b>AWS Certified Machine Learning – Specialty</b> engineer with 2+ years of hands-on experience building and deploying predictive 
+models, backed by 7 years in the tech industry. Skilled in Python, PySpark, SQL, and deep learning frameworks. Proven ability to 
+design scalable, cloud-based ML solutions with GDPR-compliant data practices. Strong focus on model evaluation, optimization, 
+and real-world business impact. Thrives in fast-paced, collaborative environments driving end-to-end ML workflows. 
 
 My motto of being determined towards the software world and its development for the betterment of the standard of living of society encouraged me to take up engineering as a profession.
 
