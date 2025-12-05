@@ -53,7 +53,7 @@ This is a list of my most recent activity on GitHub.
 
 # Experience
 - [Buzz link Inc](https://gust.com/companies/buzz-link-inc-2)
-  - <b>Data Scientist</b> - <b>Nov 2023 - Present</b>
+  - <b>Data Scientist</b> - <b>Jan 2024 - May 2025</b>
 - [iNeuron.ai](https://ineuron.ai/)
   - <b>Data Science Intern</b> - <b>June 2023 - Nov 2023</b>
 - [CodeBasics.io](https://CodeBasics.io) 
